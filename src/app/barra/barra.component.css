@@ -1,0 +1,136 @@
+.nav{
+position: absolute;
+width: 1440px;
+height: 117px;
+left: 0px;
+top: 0px;
+
+background: #000AFF;
+}
+
+.cliente{
+    /* Detalles Cliente */
+
+
+position: relative;
+width: 1440px;
+height: 1024px;
+font-family: 'Inter';
+font-style: normal;
+background: #FFFFFF;
+}
+h2{
+position: absolute;
+width: 325px;
+height: 39px;
+left: 50px;
+font-size: 32px;
+line-height: 39px;
+color: #FFFFFF;
+top: 11px;
+
+}
+
+input{
+position: absolute;
+width: 371px;
+height: 31px;
+left: 414px;
+top: 39px;
+color: rgb(96, 97, 97);
+}
+.container{
+    /* Group 12 */
+
+
+position: absolute;
+width: 489px;
+height: 45px;
+left: 845px;
+top: -2px;
+font-family: 'Inter';
+font-style: normal;
+}
+#bt1{
+    /* Catalogo */
+
+
+position: absolute;
+width: 77px;
+height: 22px;
+left: 45px;
+top: 42px;
+
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+#bt2{
+    /* Contáctenos */
+
+
+position: absolute;
+width: 109px;
+height: 22px;
+left: 130px;
+top: 42px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+#bt3{
+    /* Cerrar sesión */
+
+
+position: absolute;
+width: 114px;
+height: 22px;
+left: 220px;
+top: 42px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+}
+
+button{
+    /* Carrito() */
+
+
+position: absolute;
+left: 340px;
+top: 50px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+background-color: red;
+color: #FFFFFF;
+}
+

@@ -1,0 +1,33 @@
+.detalle{
+    /* image 1 */
+
+
+position: absolute;
+width: 674px;
+height: 464px;
+left: 100px;
+top: 176px;
+
+}
+
+.descripcion{
+    position: absolute;
+width: 70%;
+left: 119%;
+top: -6%;
+
+font-family: 'Inter';
+font-style: normal;
+line-height: 24px;
+display: flex;
+color: #000000;
+align-items: center;
+justify-content: flex-start;
+flex-wrap: nowrap;
+flex-direction: column;
+
+}
+button{
+    background-color: red;
+    color: white;
+}
